@@ -1,0 +1,36 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Основы математической статистики}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Методы вывода}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Методы численного вычисления интегралов}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Метод прямоугольников}{3}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Метод Монте-Карло}{4}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Сравнение методов}{5}{subsubsection.1.2.3}%
+\contentsline {section}{\numberline {2}Точечные и интервальные оценки}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Свойства оценок}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Наследование свойств оценок}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Доверительные интервалы}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Центральный интревал (Метод центральной функции)}{12}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Ассимптотический доверительный интервал Вальда}{13}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Точные доверительные интервалы в нормальной модели}{14}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Методы поиска и сравнения оценок}{16}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Метод максимального правдоподобия}{17}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Выборочные квантили}{21}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Свойства оценок в модели линейной регрессии при несмещённости и гомоскедастичность шума}{21}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Сравнение оценок}{23}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Равномерный}{23}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Байесовский}{24}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Min-Max подход}{24}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Ассимптотический (для класса а.н. оценок)}{24}{subsubsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.5}Достаточные статистики}{25}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Экспоненциальный класс распределений}{27}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Приближённый поиск ОМП. Метод Ньютона для решения урванения $f(x) = 0$}{29}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Robustness и симметричные распределения}{30}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Усечённое среднее}{31}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Медиана средних Уолша}{32}{subsubsection.3.8.2}%
+\contentsline {section}{\numberline {4}Проверка статистических гипотез}{33}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Гипотезы и критерии}{33}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Критерий Вальда}{36}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Критерии отношения правдоподобия}{37}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Непараметрический подход}{39}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Эмперическое распределение}{39}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Метод подстановки}{40}{subsection.5.2}%
