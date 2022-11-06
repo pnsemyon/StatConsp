@@ -142,7 +142,7 @@ $$
 \begin{namedtheorem}
     Пусть $f$ - дважды непрерывно дифференцируемая функция. Тогда при испльзовании равномерной сетки выполнена оценка:
     $$
-        |\hat I - I| \leq \frac{M(b-a)^3}{24ns^2}, \quad M = \max_{x\in [a, b]}|f^{\prime\prime}(x)|
+        |\hat I - I| \leq \frac{M(b-a)^3}{24n^2}, \quad M = \max_{x\in [a, b]}|f^{\prime\prime}(x)|
     $$
 \end{namedtheorem}
 Доказательство: Разложим $f(x)$ по формуле Тейлора с остаточным членом:
@@ -188,7 +188,7 @@ $$
 \end{enumerate}
 
 \section{Точечные и интервальные оценки}
-Пусть задана вероятностно статистическая модель $(\mathcal{X}^n, \mathcal{B(X^n)}, \mathcal{P})$, причём $\mathcal{P} = \{ P_\theta
+Пусть задана вероятностно статистическая модель $(\mathcal{X}^n, \mathcal{B}(X^n), \mathcal{P})$, причём $\mathcal{P} = \{ P_\theta
 : \theta \in \Theta\}$, то есть мы имеем дело с параметрическим подходом. Пусть также $X =(\sample)$ - выборка из 
 неизвестного распределения этого класса. 
 \begin{dfn}
@@ -1361,14 +1361,14 @@ $$
     \item $H_0: \theta = \theta_0$
     \item $H_1: \theta = \theta_1$
 \end{enumerate}
-Пусть у нас есть $\hat\theta$ - ассимптотически нормальная оценка $\theta$ с ассимптотической дисперсией $\sigma(\theta)^2$, 
+Пусть у нас есть $\hat\theta$ - ассимптотически нормальная оценка $\theta_0$ с ассимптотической дисперсией $\sigma(\theta_0)^2$, 
 а также $\hat\sigma $ - состоятельная оценка $\sigma$. Тогда из свойств а.н.о следует, что:
 $$
-    W(X) = \sqrt{n}\frac{\hat\theta - \theta}{\hat\sigma} \dconv \normal{0}{1}
+    W(X) = \sqrt{n}\frac{\hat\theta - \theta_0}{\hat\sigma} \dconv \normal{0}{1}
 $$
 Таким образом, мы получаем следующий критерий 
 \begin{dfn}
-    Критерий $S = \{ \sqrt{n}\frac{|\hat\theta - \theta|}{\hat\sigma} > z_{\frac{1-\alpha}{2}}\}$
+    Критерий $S = \{ \sqrt{n}\frac{|\hat\theta - \theta_0|}{\hat\sigma} > z_{\frac{1-\alpha}{2}}\}$
 \end{dfn}
 Ясно, что это ассимптотический критерий уровни значимости $\alpha$. Изучим мощность данного критерия:
 $$
